@@ -7,7 +7,7 @@
 3. Day 3 : complete the following file : 
    * <code>oop3-abstract_morph.js</code>
 
-## ********************************
+## *********************************
 ## Git Instructions
 - [ ] Create a template copy of this repository by clicking : "Use this template"
 - [ ] Name the repository the same name as the master template repository.  
